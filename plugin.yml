@@ -1,0 +1,10 @@
+name: UltimateCrash
+main: me.valk.ultimatecrash.UltimateCrash
+author: valkyrienyanko
+version: 1.0
+api-version: 1.14
+soft-depend: [Vault]
+commands:
+   crash:
+     description: Opens up the crash GUI.
+     aliases: [cr]
